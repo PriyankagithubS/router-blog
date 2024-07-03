@@ -36,8 +36,11 @@ const All = () => {
                             Data science is the study of data and how to analyze and interpret it. It involves techniques like data
                             cleaning, data transformation, and statistical analysis to extract meaningful insights from data. Data science
                             professionals work with large datasets, perform exploratory data analysis, and develop models to predict 
-                            . They also use tools like Python, R, and SQL for data manipulation and
+                            . 
+                            They use tools like Python, R, and SQL for data manipulation and analysis. They also use techniques like machine
+                            They also use tools like Python, R, and SQL for data manipulation and
                             analysis. 
+
                         </Card.Text>
                         <Link to="/datascience" className="nav-link">
                             <Button variant="primary">Go to Data Science</Button>

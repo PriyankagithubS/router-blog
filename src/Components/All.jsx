@@ -32,7 +32,7 @@ const All = () => {
                     <Card.Body>
                         <Card.Title style={{ color: 'blueviolet' }}>Data Science</Card.Title>
                         <Card.Text>
-                            write about Datascience
+                            
                             Data science is the study of data and how to analyze and interpret it. It involves techniques like data
                             cleaning, data transformation, and statistical analysis to extract meaningful insights from data. Data science
                             professionals work with large datasets, perform exploratory data analysis, and develop models to predict 

@@ -1,0 +1,11 @@
+/* App.css */
+.navbar-dark .navbar-nav .nav-link {
+    color: whitesmoke;
+    direction: flex;
+    justify-content: space-between;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    text-decoration: underline;
+    color:aqua
+}
